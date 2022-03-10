@@ -32,7 +32,7 @@ public class ChocolatePickaxeItem extends PickaxeItem {
     @Override
     public ItemStack finishUsing(ItemStack stack, World world, LivingEntity user) {
         ItemStack consumedStack = user.eatFood(world, stack.copy());
-        stack.setDamage(stack.getDamage() + (int) Math.ceil(stack.getMaxDamage() / 3f));
+        stack.setDamage(stack.getDamage() + stack.getMaxDamage() / 3);
         return stack.getDamage() >= stack.getMaxDamage() ? consumedStack : stack;
     }
 }

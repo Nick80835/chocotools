@@ -8,7 +8,7 @@ import static com.nick80835.chocotools.ChocoToolsEntry.CHOCOLATE_GLOB;
 public class ChocolateToolMaterial implements ToolMaterial {
     @Override
     public int getDurability() {
-        return 220;
+        return 228;
     }
 
     @Override
