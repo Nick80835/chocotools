@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "materials",
+  "ingredient": {
+    "item": "chocotools:cosmic_glob"
+  },
+  "result": "chocotools:cosmic_brownie",
+  "experience": 30,
+  "cookingtime": 150
+}

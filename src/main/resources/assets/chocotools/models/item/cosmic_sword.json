@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "chocotools:item/cosmic_sword"
+  }
+}

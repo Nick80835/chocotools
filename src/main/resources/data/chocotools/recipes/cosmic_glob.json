@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "materials",
+  "pattern": [
+    " S ",
+    "RRR",
+    "GGG"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "chocotools:chocolate_glob"
+    }
+  },
+  "result": {
+    "item": "chocotools:cosmic_glob",
+    "count": 2
+  }
+}

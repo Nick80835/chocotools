@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "group": "tools",
   "pattern": [
-    " CC",
-    " SC",
+    "CCC",
+    " S ",
     " S "
   ],
   "key": {
@@ -15,6 +15,6 @@
     }
   },
   "result": {
-    "item": "chocotools:chocolate_axe"
+    "item": "chocotools:chocolate_pickaxe"
   }
 }

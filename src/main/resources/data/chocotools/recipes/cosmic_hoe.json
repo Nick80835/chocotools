@@ -2,19 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "group": "tools",
   "pattern": [
-    " CC",
-    " SC",
+    " BB",
+    " S ",
     " S "
   ],
   "key": {
     "S": {
       "item": "minecraft:stick"
     },
-    "C": {
-      "item": "chocotools:chocolate_glob"
+    "B": {
+      "item": "chocotools:cosmic_brownie"
     }
   },
   "result": {
-    "item": "chocotools:chocolate_axe"
+    "item": "chocotools:cosmic_hoe"
   }
 }

@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "tools",
+  "group": "combat",
   "pattern": [
-    " CC",
-    " SC",
+    " B ",
+    " B ",
     " S "
   ],
   "key": {
@@ -11,10 +11,10 @@
       "item": "minecraft:stick"
     },
     "C": {
-      "item": "chocotools:chocolate_glob"
+      "item": "chocotools:cosmic_brownie"
     }
   },
   "result": {
-    "item": "chocotools:chocolate_axe"
+    "item": "chocotools:cosmic_sword"
   }
 }
