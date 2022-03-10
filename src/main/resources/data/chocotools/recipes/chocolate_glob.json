@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "materials",
+  "pattern": [
+    " M ",
+    "SSS",
+    "BBB"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "item": "chocotools:roasted_cocoa_beans"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "chocotools:chocolate_glob",
+    "count": 5
+  }
+}

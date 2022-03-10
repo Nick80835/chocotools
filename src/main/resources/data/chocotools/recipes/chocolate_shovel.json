@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    " C ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "chocotools:chocolate_glob"
+    }
+  },
+  "result": {
+    "item": "chocotools:chocolate_shovel"
+  }
+}
